@@ -1,0 +1,10 @@
+Almaz, 120
+Selam, 50
+Riya, 30
+Biruk, 200
+Arsema, 15
+Selam, 50000
+Almaz, 12000
+Riya, 30000
+Biruk, 20054
+Arsema, 1500
