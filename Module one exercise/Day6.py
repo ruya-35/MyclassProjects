@@ -10,7 +10,7 @@ class Account:
     def balance(self):
         return self._balance
     
-    def subscribe(self, observer): 
+    def subscribe(self, observer):
         self._observers.append(observer)
 
     def _notify(self, event): 
